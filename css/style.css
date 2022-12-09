@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.site-header{
+    background-color: #50DBB4;
+    color: #ffffff;
+    height: 100vh;
+    font-family: monospace;;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+img{
+    
+    margin-top: 30px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 7px 10px   #889994;
+    
+}
+
+.site-header-content{
+    margin: 10px;
+    width: 800px;
+}
